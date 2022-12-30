@@ -1,0 +1,3 @@
+I have left space for people to contribute to my code.
+Things analysed for each airline
+-safety of each airline(by dividing total_avail_seat_km by number accidents
